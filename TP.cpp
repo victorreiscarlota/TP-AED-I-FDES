@@ -47,7 +47,7 @@ vector<Fornecedor> fornecedores;
 vector<Festa> festas;
 vector<Contrato> contratos;
 
-
+//void para cadastro do cliente
 void cadastrarCliente() {
     Cliente cliente;
     cout << "Código do cliente: ";
