@@ -1,5 +1,4 @@
-# TP-AED-I-FDES
-README - TP-AED-I-FDES
+# README - TP-AED-I-FDES
 Este projeto foi desenvolvido como parte do curso de Engenharia de Software, na instituição PUC Minas.
 
 Descrição do Projeto
