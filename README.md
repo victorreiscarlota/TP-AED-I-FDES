@@ -1,10 +1,10 @@
-![TP-AED-I_FDES]((https://cdn.discordapp.com/attachments/912077509850447922/1123678246605684807/sexting.gif))
+![TP-AED-I_FDES](https://cdn.discordapp.com/attachments/912077509850447922/1123678246605684807/sexting.gif)
 
 
 
 TP AEDS I
 
-![GIF demo]((https://cdn.discordapp.com/attachments/912077509850447922/1123678261952663572/star.gif))
+![GIF demo](https://cdn.discordapp.com/attachments/912077509850447922/1123678261952663572/star.gif)
 
 Designed for Chrome web. *Not yet tested on other browsers!*
 
