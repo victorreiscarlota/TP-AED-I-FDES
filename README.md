@@ -1,42 +1,53 @@
-# README - TP-AED-I-FDES
-Este projeto foi desenvolvido como parte do curso de Engenharia de Software, na instituição PUC Minas.
+![TP-AED-I_FDES]((https://cdn.discordapp.com/attachments/912077509850447922/1123678246605684807/sexting.gif))
 
-Descrição do Projeto
-O objetivo deste projeto é (descrever brevemente o objetivo e escopo do projeto).
 
-Funcionalidades Principais
-Funcionalidade 1: Descrição da funcionalidade 1.
-Funcionalidade 2: Descrição da funcionalidade 2.
-Funcionalidade 3: Descrição da funcionalidade 3.
-Tecnologias Utilizadas
-Linguagem de programação: Descreva a linguagem principal utilizada no projeto.
-Frameworks e bibliotecas: Liste as principais frameworks e bibliotecas utilizadas no projeto.
-Ferramentas de desenvolvimento: Descreva as principais ferramentas utilizadas no desenvolvimento, como IDEs, sistemas de controle de versão, etc.
-Configuração do Ambiente de Desenvolvimento
-Clone o repositório: git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Instale as dependências: comando para instalar as dependências
-Configuração adicional: Descreva qualquer configuração adicional necessária.
-Como Contribuir
-Caso queira contribuir com este projeto, siga as etapas abaixo:
 
-Faça um fork deste repositório.
-Crie uma branch para suas alterações: git checkout -b minha-branch
-Faça as alterações desejadas e commit: git commit -m 'Descrição das alterações'
-Faça um push para a branch: git push origin minha-branch
-Abra uma pull request neste repositório.
-Equipe
-Nome do Aluno 1: Função na equipe.
-Nome do Aluno 2: Função na equipe.
-Nome do Aluno 3: Função na equipe.
-Nome do Aluno 4: Função na equipe.
-Licença
-Este projeto está licenciado sob a (escolha uma licença apropriada para o projeto). Consulte o arquivo LICENSE para obter mais informações.
+TP AEDS I
 
-Contato
-Em caso de dúvidas ou sugestões, entre em contato com a equipe de desenvolvimento:
+![GIF demo]((https://cdn.discordapp.com/attachments/912077509850447922/1123678261952663572/star.gif))
 
-Nome do Aluno: e-mail
-Nome do Aluno: e-mail
-Nome do Aluno: e-mail
-Nome do Aluno: e-mail
-Você também pode abrir uma issue neste repositório para relatar problemas ou solicitar novas funcionalidades.
+Designed for Chrome web. *Not yet tested on other browsers!*
+
+**Description**
+---
+Girafaflix website [INFO]
+
+Welcome to our website, a powerful platform that not only sorts out movie recommendations but also keeps you up-to-date with the latest releases. By leveraging the TMDB API (The Movie Database), we bring you a comprehensive and personalized movie-watching experience.
+
+Using the TMDB API, our website taps into an extensive database of movies, TV shows, and other media content. Through advanced algorithms and user preferences, we curate personalized recommendations based on your viewing history, genre preferences, and ratings. Whether you're a fan of action-packed blockbusters, captivating dramas, or thought-provoking documentaries, our website will help you discover new titles that align with your interests.
+
+```
+Open command prompt and type:
+- code
+Then open the website file and run it.
+
+```
+
+**Installation Options**
+---
+
+1.  [`Given that it is a website, there is no necessity to install any components.`](https://mavehero.github.io/girafaflix/)
+    
+
+
+**Deployment**
+---
+[`The website is deployed using GitHub Pages.`]
+
+**Contributors**
+---
++ [Caio] (Caio Henrique- martinscaio3421@gmail.com)
++ [Eduardo](Eduardo Andrade- easaldanha@sga.pucminas.br) 
++ [Lucas] (Lucas Lafetá- lucaslmchaves@gmail.com)
++ [Roberta] (Roberta Micaela- roberttamicaella@gmail.com)
++ [Sérgio] (Sérgio Parreiras- sergioparreiras09@gmail.com)
++ [Victor] (Victor Reis- victor.reis.carlotta@gmail.com)
++ [Vinicius] (Vinicius Gabriel- viniciusromie@hotmail.com)
++ [Special Colaborator] (`Pedro Borges`/- Thanks for the additional help!)
+
+**Troubleshooting**
+---
+
+Users might experience compatibility issues if they try accessing the website using a different browser. This can happen because different browsers have their own way of displaying web content and supporting various web technologies. To ensure the best experience, it's a good idea to test the website on multiple browsers and versions. If users encounter any problems, it's helpful to provide guidance on which browsers are recommended or any specific settings they might need to adjust. `https://mavehero.github.io/girafaflixPUC/`.
+
+
