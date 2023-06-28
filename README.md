@@ -36,14 +36,10 @@ Then open the website file and run it.
 
 **Contributors**
 ---
-+ [Caio] (Caio Henrique- martinscaio3421@gmail.com)
-+ [Eduardo](Eduardo Andrade- easaldanha@sga.pucminas.br) 
++ [Victor] (Victor Reis - victor.reis.carlotta@gmail.com)
++ [Roberta](Roberta Micaela - roberttamicaella@gmail.com) 
 + [Lucas] (Lucas Lafetá- lucaslmchaves@gmail.com)
-+ [Roberta] (Roberta Micaela- roberttamicaella@gmail.com)
-+ [Sérgio] (Sérgio Parreiras- sergioparreiras09@gmail.com)
-+ [Victor] (Victor Reis- victor.reis.carlotta@gmail.com)
-+ [Vinicius] (Vinicius Gabriel- viniciusromie@hotmail.com)
-+ [Special Colaborator] (`Pedro Borges`/- Thanks for the additional help!)
+
 
 **Troubleshooting**
 ---
