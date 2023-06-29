@@ -8,11 +8,10 @@
 
 ![GIF demo](https://cdn.discordapp.com/attachments/912077509850447922/1123678261952663572/star.gif)
 
-Designed for Chrome web. *Not yet tested on other browsers!*
+Designed for VSCode and CodeBlocks
 
 **Description**
----
-Girafaflix website [INFO]
+---TP AEDS I [INFO]
 
 Welcome to our website, a powerful platform that not only sorts out movie recommendations but also keeps you up-to-date with the latest releases. By leveraging the TMDB API (The Movie Database), we bring you a comprehensive and personalized movie-watching experience.
 
